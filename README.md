@@ -210,3 +210,19 @@ We aim to review all contributions promptly and provide constructive feedback to
 ➡️ [Read the docs](https://docs.pipecat.ai)
 
 ➡️ [Reach us on X](https://x.com/pipecat_ai)
+
+---
+
+## About this fork
+
+This is **[MrKyaw](https://github.com/MrKyaw)'s fork** of [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat), the upstream source of truth for the framework, services, and documentation.
+
+**What it is.** Pipecat is an open-source Python framework for building real-time voice and multimodal conversational agents. It orchestrates audio and video, AI services, transports, and conversation pipelines into composable, low-latency pipelines — with multi-agent handoff, parallel fan-out, sidecar workers, and distributed deployments.
+
+**Fork notes.** This fork may lag behind upstream and is intended for personal experimentation. Pull from `upstream/main` for the latest services and fixes.
+
+**Tags:** `voice-ai` · `multimodal` · `conversational-ai` · `real-time` · `webrtc` · `python` · `ai-agents` · `llm` · `speech-to-text` · `text-to-speech`
+
+## ⭐ Star this repo if you find it useful! ⭐
+
+Report Bug · Request Feature · Ask Question
